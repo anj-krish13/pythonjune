@@ -1,0 +1,19 @@
+div{
+    height: 647p;
+    width: 19%;
+    background-color: black;
+    border: rebeccapurple 2px solid;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+img{
+    width: 100%;
+height: 300px;
+border-radius: 500;
+}
+p{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
